@@ -1,2 +1,2 @@
 # java-programming
-practice code
+practice ques
